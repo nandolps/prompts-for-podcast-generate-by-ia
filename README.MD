@@ -31,7 +31,7 @@ Não ultrapasse 5 minutos de duração
 
 ## 📚 PodCast
 
-
+https://github.com/nandolps/prompts-for-podcast-generate-by-ia/edit/main/README.MD#:~:text=ElevenLabs_Chapter_1
 
 
 <br/><br/>
